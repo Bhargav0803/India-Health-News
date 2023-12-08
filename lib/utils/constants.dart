@@ -1,0 +1,3 @@
+class Constants{
+  static String imageurl ='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4141669-no-photo-or-blank-image-icon-loading-images-or-missing-image-mark-image-not-available-or-image-coming-soon-sign-simple-nature-silhouette-in-frame-isolated-vector-illustration&psig=AOvVaw16nt2dVxrYbGv2SYt6f2ZS&ust=1692037382182000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjI6Mmg2oADFQAAAAAdAAAAABAE';
+}
